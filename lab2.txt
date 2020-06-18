@@ -1,12 +1,3 @@
-hi 
-lana + laila + rama = love forever
- hi lana
- i am laila 
-i'm editing now 
-i am rama 
-i love lana 
-i'm now in brach lana
-
  git clone https://github.com/homs321/homework.git
  cd 
  ls 
