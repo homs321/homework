@@ -7,3 +7,11 @@ i am rama
 i love lana 
 i'm now in brach lana
 
+ git clone https://github.com/homs321/homework.git
+ cd 
+ ls 
+ git add *
+git commit -m 'lana update'
+git remote add origin https 
+git push origin master 
+git pull origin master 
